@@ -1,0 +1,1 @@
+This project is about reviewing the essential and useful commands of git and pushing projects to github.com. So far, I have made a new project and connected it to github.
